@@ -1,4 +1,4 @@
-module github.com/briankrznarich/ujsonin/v2
+module github.com/briankrznarich/ujsonin/go/v2
 
 go 1.13
 
